@@ -1,4 +1,6 @@
+
 """SMA30 dip bot for cbBTC/USDC, 1-minute bars (agent-fun/bars-replay/v1).
+
 
 Strategy, exactly as specified:
 - Track the simple moving average of the last 30 closes (SMA30).
